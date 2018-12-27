@@ -2,7 +2,7 @@
 #
 # creates Student class and it's attributes and methods
 #
-# Julie Herrick (627001411), Rita Nedrow (526007286), Dominic Kinsey (427004840), Caitlin Garrigus (327001698)
+# Julie Herrick, Rita Nedrow, Dominic Kinsey, Caitlin Garrigus
 # December 2018
 # ENGR 102-213
 # Final Project
